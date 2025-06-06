@@ -1,0 +1,2 @@
+C:/Projects/all-three/auspi/Auspi_Ravi/android/app/.cxx/RelWithDebInfo/234sz6l1/x86/CMakeFiles/edit_cache.dir
+C:/Projects/all-three/auspi/Auspi_Ravi/android/app/.cxx/RelWithDebInfo/234sz6l1/x86/CMakeFiles/rebuild_cache.dir
